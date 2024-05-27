@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692305265604",
+    "project_id": "myfit-5a063",
+    "storage_bucket": "myfit-5a063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692305265604:android:7e13098384ec0f8d7c9a91",
+        "android_client_info": {
+          "package_name": "com.example.myfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ZbaqSscDDLwrKfhGhw7TyTqZ_Ro4_sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
